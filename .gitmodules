@@ -1,0 +1,6 @@
+[submodule "charting_library"]
+	path = charting_library
+	url = https://github.com/tradingview/charting_library
+[submodule "tradingview"]
+	path = tradingview
+	url = https://github.com/tradingview/charting_library
